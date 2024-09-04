@@ -3,7 +3,7 @@ import numpy as np
 from tensorflow import keras
 from sklearn.model_selection import train_test_split
 from keras._tf_keras.keras.preprocessing.image import load_img, img_to_array
-from keras import models, layers, Input
+from keras import models, layers
 from sklearn.model_selection import train_test_split
 from keras._tf_keras.keras.utils import to_categorical
 import matplotlib.pyplot as plt
